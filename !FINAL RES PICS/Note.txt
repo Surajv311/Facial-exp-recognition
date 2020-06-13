@@ -1,1 +1,3 @@
 *may have to paste utils/ in the jupyter directory in C:
+
+*to have your face scanned with webcam and get the expression refer the comments in camera.py file
