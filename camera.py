@@ -8,8 +8,8 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 
 class VideoCamera(object):
     def __init__(self):
-        self.video = cv2.VideoCapture("/home/rhyme/Desktop/Project/videos/facial_exp.mkv")
-
+        self.video = cv2.VideoCapture("videos/prez_debate_video.mp4")
+        #self.video = cv2.VideoCapture(0) #if you put (0) as argument then expression from webcam would be taken
     def __del__(self):
         self.video.release()
 
