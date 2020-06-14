@@ -19,5 +19,4 @@ And then run the flask app in the web browser at <br>
 ### localhost:5000
 <br>
 To get the facial expression of your face using the webcam then <br>
-check the comments in <br>
-#### camera.py file
+check the comments in camera.py file and make the appropriate changes.
