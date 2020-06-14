@@ -17,3 +17,6 @@ Open the terminal in the same directory and run:
 ```python main.py``` <br>
 And then run the flask app in the web browser at <br>
 ### localhost:5000
+<br>
+To get the facial expression of your face using the webcam then <br>
+check the comments in #####camera.py file.
