@@ -7,7 +7,6 @@ You may install:<br>
 ```conda install tensorflow```<br>
 ```conda install opencv```<br>
 ```conda install numpy ```<br>
-```conda install numpy ```<br>
 ```conda install matplotlib```<br>
 ```conda install seaborn```<br>
 ```pip install livelossplot```<br>
