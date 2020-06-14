@@ -6,3 +6,14 @@ You may install:<br>
 ```conda install keras```<br>
 ```conda install tensorflow```<br>
 ```conda install opencv```<br>
+```conda install numpy ```<br>
+```conda install numpy ```<br>
+```conda install matplotlib```<br>
+```conda install seaborn```<br>
+```pip install livelossplot```<br>
+
+To run the project.<br>
+Open the terminal in the same directory and run:
+```python main.py``` <br>
+And then run the flask app in the web browser at <br>
+### localhost:5000
